@@ -1,0 +1,5 @@
+C:\Users\korisnik\source\repos\ProjektDateTimePicker\obj\Debug\ProjektDateTimePicker.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\ProjektDateTimePicker\obj\Debug\ProjektDateTimePicker.Form1.resources
+C:\Users\korisnik\source\repos\ProjektDateTimePicker\obj\Debug\ProjektDateTimePicker.Properties.Resources.resources
+C:\Users\korisnik\source\repos\ProjektDateTimePicker\obj\Debug\ProjektDateTimePicker.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\ProjektDateTimePicker\obj\Debug\ProjektDateTimePicker.csproj.CoreCompileInputs.cache
